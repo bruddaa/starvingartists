@@ -16,3 +16,4 @@ end"
 
 NOTE: Some image URLs may not work (GUI will show very long error) but this is not often the case
 If you face any issues you can also get help in the Discord.
+
